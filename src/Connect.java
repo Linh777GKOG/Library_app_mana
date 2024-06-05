@@ -10,7 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Sudhir Kushwaha
+ * @author 
  */
 public class Connect {
     static Connection con=null;

@@ -10,10 +10,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Sudhir Kushwaha
- */
+
 public class ReturnBook extends javax.swing.JFrame {
     Connection c=Connect.ConnectToDB();
     PreparedStatement pst;
@@ -142,7 +139,7 @@ public class ReturnBook extends javax.swing.JFrame {
         jLabel8.setText("Student Name");
         getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 340, 220, 50));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/All Page Backgraound.jpg"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/All Page Background.jpg"))); // NOI18N
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -4, 1140, 770));
 
         pack();

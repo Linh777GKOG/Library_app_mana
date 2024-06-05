@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author Sudhir Kushwaha
- */
+
 public class Loading2 extends javax.swing.JFrame {
 
     /**
